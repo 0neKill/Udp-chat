@@ -1,0 +1,6 @@
+/server/server/server.pro.user
+/client/client/client.pro.user
+/release-server
+/release-client
+/server/build-server-Desktop_Qt_5_13_0_MinGW_32_bit-Release
+/client/build-client-Desktop_Qt_5_13_0_MinGW_32_bit-Release
